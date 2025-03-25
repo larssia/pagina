@@ -7,12 +7,12 @@ body{
 }
 h1{
     text-align: center;
-    color: green;
+    color: rgb(90, 4, 18);
     margin-top: 24px;
     font-family: Verdana;
 }
 p{ 
-    color: rgb(127, 253, 45);
+    color: rgb(185, 27, 53);
     margin-top: 24px;
     margin-left: 24;
 }
